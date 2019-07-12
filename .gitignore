@@ -126,7 +126,7 @@ node_modules/
 jspm_packages/
 
 # Distribution directories
-dist/
+leadmanager/frontend/static/frontend/main.js
 
 # Typescript v1 declaration files
 typings/
