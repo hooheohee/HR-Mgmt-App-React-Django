@@ -1,8 +1,0 @@
-{
-  "python.pythonPath": "/Users/YueZheng/.local/share/virtualenvs/Lead-Manager-React-Django-hhOObbEj/bin/python",
-  "python.linting.pylintEnabled": false,
-  "python.linting.flake8Enabled": true,
-  "python.linting.flake8Args": ["--ignore=E501"],
-  "python.linting.enabled": true,
-  "python.linting.pep8Enabled": false
-}
