@@ -1,5 +1,5 @@
 ### Lead-Manager-React-Django
-This is a HR management app. It is built with Django as backend and ReactJS as frontend.  
+This is a HR management app. It is built with Django (backend) and ReactJS (frontend)  
 
 ### Start dev server
 1. (OPTIONAL) At root, run `pipenv shell` to start a virtual environment and then `pipenv install` to install the backend dependencies
