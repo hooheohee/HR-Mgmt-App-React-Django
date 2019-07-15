@@ -1,8 +1,0 @@
-{
-  "python.pythonPath": "C:\\Users\\Yue Zheng\\.virtualenvs\\Lead-Manager-OkK4Z2eT\\Scripts\\python.exe",
-  "python.linting.pylintEnabled": false,
-  "python.linting.flake8Enabled": true,
-  "python.linting.flake8Args": ["--ignore=E501"],
-  "python.linting.enabled": true,
-  "python.linting.pep8Enabled": false
-}
